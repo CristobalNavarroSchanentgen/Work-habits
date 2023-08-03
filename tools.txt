@@ -1,0 +1,11 @@
+I enjoy using cli and old school nano as much as I can, I like programming better when it feels less magic and more crude.
+
+I however have a sweet spot for jupyter notebooks, and even though it is a very refined and not so crude tool, I can't deny 
+that running jupyter inside of vs code is delightful for data projects. Easy environment management with the ipykernel module, 
+and I actually find it useful to start longer projects on a notebook to make the debugging process more comfortable. My thanks 
+to Fernando Perez, Brian Granger and their teams.
+
+I like to use macOS or Linux, I feel a bit restrained on windows even though I have been using it at work for quite some time now.
+
+
+
